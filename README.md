@@ -33,7 +33,7 @@ A simple slot machine game built with Vue 3 and TypeScript. It uses Pinia for st
 
 To run the project locally, you'll need to have Node.js installed. Then, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/slot-machine.git`
+1. Clone the repository: `https://github.com/mehdi1712/SlotMachine.git`
 2. Install the dependencies: `npm install`
 3. Start the development server: `npm run serve`
 
