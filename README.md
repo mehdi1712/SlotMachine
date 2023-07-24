@@ -1,53 +1,46 @@
-# Vue.js 3 TypeScript Boilerplate
+# Slot Machine
 
-This Vue.js 3 boilerplate is written in TypeScript and includes Pinia, Vue Router and Tailwind CSS.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Customize configuration
+A simple slot machine game built with Vue 3 and TypeScript. It uses Pinia for state management, Tailwind for styling, and Flowbit for animation.
 
-See [Tailwind CSS Configuration](https://tailwindcss.com/docs/configuration).
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Table of Contents
 
-## Project Setup
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [License](#license)
 
-```sh
-npm install
-```
+## Features
 
-### Compile and Hot-Reload for Development
+- Three reels with random symbols
+- Bet amount selector
+- Spin button with animation
+- Winning combinations with payouts
+- Sound effects and music
+- Local storage to save the player's balance
 
-```sh
-vite
-npm run dev
-```
+## Technologies Used
 
-### Locally preview build
+- [Vue 3](https://v3.vuejs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Pinia](https://pinia.esm.dev/)
+- [Tailwind](https://tailwindcss.com/)
+- [Flowbit](https://flowbite.com/)
 
-```sh
-vite preview
-npm run preview
-```
+## Getting Started
 
-### Type-Check, Compile and Minify for Production
+To run the project locally, you'll need to have Node.js installed. Then, follow these steps:
 
-```sh
-npm run build
-```
+1. Clone the repository: `git clone https://github.com/your-username/slot-machine.git`
+2. Install the dependencies: `npm install`
+3. Start the development server: `npm run serve`
 
-### Build only
+## Contributing
 
-```sh
-vite build
-npm run build-only
-```
+Contributions are welcome! If you find a bug or have a feature request, please open an issue. If you want to contribute code, please fork the repository and submit a pull request.
 
-### Lint with [ESLint](https://eslint.org/)
+## License
 
-```sh
-npm run lint
-```
-
-### Check types
-
-```sh
-npm run type-check
-```
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
