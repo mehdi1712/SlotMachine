@@ -18,8 +18,9 @@ A simple slot machine game built with Vue 3 and TypeScript. It uses Pinia for st
 - Bet amount selector
 - Spin button with animation
 - Winning combinations with payouts
-- Sound effects and music
 - Local storage to save the player's balance
+- Sound effects and music (comming soon)
+
 
 ## Technologies Used
 
@@ -28,6 +29,8 @@ A simple slot machine game built with Vue 3 and TypeScript. It uses Pinia for st
 - [Pinia](https://pinia.esm.dev/)
 - [Tailwind](https://tailwindcss.com/)
 - [Flowbit](https://flowbite.com/)
+- Testing (comming soon)
+
 
 ## Getting Started
 
