@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A simple slot machine game built with Vue 3 and TypeScript. It uses Pinia for state management, Tailwind for styling, and Flowbit for animation.
+ In this game, we cheat in the spins based on the user's credibility. In addition, we also used luck to gain credibility.
 
 ## Table of Contents
 
