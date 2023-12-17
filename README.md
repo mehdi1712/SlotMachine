@@ -4,6 +4,8 @@
 
 A simple slot machine game built with Vue 3 and TypeScript. It uses Pinia for state management, Tailwind and Flowbit for styling.
  In this game, we cheat in the spins based on the user's credibility. In addition, we also used luck to gain credibility.
+   
+ [Live Demo](https://mehdi1712.github.io/SlotMachine/)
 
 ## Table of Contents
 
